@@ -27,3 +27,4 @@
 </div>
 
 <h5>Correlation</h5>
+<div>Spearman’s Rank Correlation Coefficient</div>
