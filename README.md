@@ -22,6 +22,9 @@
 <div>Newton’s forward Interpolation methods</div>
 <div>Newton’s Backward Interpolation methods</div>
 
+<h5>Numerical Integration</h5>
+
+
 <h5>Numerical Solution of ODE</h5>
 <div>Runge-Kuta 4th Order
 </div>
