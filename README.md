@@ -17,6 +17,7 @@
 <h5>Curve Fitting</h5>
 <div>Linear Regression</div>
 <div>Nonlinear Regression</div>
+<div>Polynomial Regression</div>
 
 <h5>Interpolation</h5>
 <div>Newton’s forward Interpolation methods</div>
@@ -28,6 +29,7 @@
 <div>Simpson's 3/8th rule</div>
 
 <h5>Numerical Solution of ODE</h5>
+<div>Improvement of Euler’s Method</div>
 <div>Runge-Kuta 4th Order
 </div>
 
