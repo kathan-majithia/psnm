@@ -23,7 +23,9 @@
 <div>Newton’s Backward Interpolation methods</div>
 
 <h5>Numerical Integration</h5>
-
+<div>The Trapezoidal Rule</div>
+<div>Simpson's 1/3th rule</div>
+<div>Simpson's 3/8th rule</div>
 
 <h5>Numerical Solution of ODE</h5>
 <div>Runge-Kuta 4th Order
